@@ -1,0 +1,4 @@
+## Virtual env
+python3 -m venv playIfYouDare
+source ./playIfYouDare/bin/activate
+pip install -r requirements.txt
